@@ -11,7 +11,7 @@
     <div class="d-flex justify-content-center align-items-center vh-100">
     	
     	<form class="shadow w-450 p-3" 
-    	      action="php/signup.php" 
+    	      action="php/register.php" 
     	      method="post">
 
     		<h4 class="display-4  fs-1">Create Account</h4><br>
